@@ -1,5 +1,5 @@
 # My Web Development Project
-# [FarmVestr](https://olenasonhrova.github.io/FarmVest/) 
+# [FarmVest](https://olenasonhrova.github.io/FarmVest/) 
 
 
 <p align="center">
@@ -16,7 +16,12 @@ Welcome to my web development project! This website is designed to demonstrate m
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Contact](#contact)
+- [Email](esongrovaa@gmail.com)
+- [LinkedIn](www.linkedin.com/in/olena-sonhrova-05a8832a0)
+- [GitHub](https://github.com/OlenaSonhrova)
+
+
+
 
 ## Project Description
 
