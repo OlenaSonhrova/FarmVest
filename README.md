@@ -43,3 +43,15 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/OlenaSonhrova/FarmVest.git
+
+2. Open the Project:
+- Open the cloned project folder in Visual Studio Code (VSCode) or any other code editor of your choice.
+- 
+3. Start the Live Server:
+- If you are using VSCode, install the Live Server extension if you haven't already.
+-Right-click on the index.html file in the Explorer panel and select Open with Live Server. This will launch the project in your default web browser, allowing you to view the live version of the site.
+
+4. Directly Open the HTML File (alternative method):
+- Alternatively, you can open the index.html file directly in your web browser. Right-click on the file and select Open with > [Your Browser]. This will display the website without needing a local server.
+- 
+By following these steps, you will be able to view and interact with your web application locally.
