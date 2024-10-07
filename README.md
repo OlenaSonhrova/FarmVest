@@ -15,9 +15,7 @@ Welcome to my web development project! This website is designed to demonstrate m
 - [Features](#features)
 - [Installation](#installation)
 - [Demo](https://olenasonhrova.github.io/FarmVest/)
-- [esongrovaa@gmail.com]
-- [LinkedIn](https://www.linkedin.com/in/olena-sonhrova-05a8832a0)
-- [GitHub](https://github.com/OlenaSonhrova)
+- [Contacts][esongrovaa@gmail.com] [LinkedIn](https://www.linkedin.com/in/olena-sonhrova-05a8832a0) [GitHub](https://github.com/OlenaSonhrova)
 
 
 
@@ -44,4 +42,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/OlenaSonhrova/FarmVest.git
