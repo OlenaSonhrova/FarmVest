@@ -17,7 +17,7 @@ Welcome to my web development project! This website is designed to demonstrate m
 - [Usage](#usage)
 - [Demo](#demo)
 - [Email](esongrovaa@gmail.com)
-- [LinkedIn](www.linkedin.com/in/olena-sonhrova-05a8832a0)
+- [LinkedIn](https://www.linkedin.com/in/olena-sonhrova-05a8832a0)
 - [GitHub](https://github.com/OlenaSonhrova)
 
 
