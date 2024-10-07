@@ -1,8 +1,12 @@
 # My Web Development Project
 # FarmVest
 
-<p align="left"> <a href="https://github.com/OlenaSonhrova/image/blob/main/FarmVest1.jpg?raw=true" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
-</p>
+<p align="center">
+<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest1.jpg?raw=true">
+<p align="center">
+<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest2.jpg?raw=true">
+<p align="center">
+<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest3.jpg?raw=true">
 
 Welcome to my web development project! This website is designed to demonstrate my skills in web development, including HTML, CSS, and JavaScript. Below you will find information about the project, how to run it locally, and a showcase of its features.
 
