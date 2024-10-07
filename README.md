@@ -2,7 +2,7 @@
 # [FarmVest](https://olenasonhrova.github.io/FarmVest/) 
 
 
-<p align="center">
+
 <img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest3.jpg?raw=true" width="350">
 
 
